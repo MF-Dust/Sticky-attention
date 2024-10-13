@@ -62,7 +62,7 @@ jobs:
         
     - name: Get application version
       run: |
-        $env:app_ver = (git describe –tags –abbrev=7 -–always)
+        $env:app_ver = (git describe –tags –abbrev=7 –always)
         echo $env:app_ver
       
     - name: List files
