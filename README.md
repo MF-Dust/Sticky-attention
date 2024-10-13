@@ -133,17 +133,17 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/MF-Dust">
-                    <img src="https://avatars.githubusercontent.com/u/128943330?v=4" width="100;" alt="MF-Dust"/>
-                    <br />
-                    <sub><b>MF.</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/undefftr">
                     <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="undefftr"/>
                     <br />
                     <sub><b>unDefinedFuture</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MF-Dust">
+                    <img src="https://avatars.githubusercontent.com/u/128943330?v=4" width="100;" alt="MF-Dust"/>
+                    <br />
+                    <sub><b>MF.</b></sub>
                 </a>
             </td>
 		</tr>
