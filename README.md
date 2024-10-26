@@ -8,12 +8,12 @@
 [![GitHub Issues](https://img.shields.io/github/issues-search/Sticky-attention/Sticky-attention?query=is%3Aopen&style=flat&logo=github&label=Issues&color=%233fb950)](https://github.com/Sticky-attention/Sticky-attention/issues)
 [![Release](https://img.shields.io/github/v/release/Sticky-attention/Sticky-attention?style=flat&color=%233fb950&label=稳定版)](https://github.com/Sticky-attention/Sticky-attention/releases/latest) 
 [![Beta](https://img.shields.io/github/v/release/Sticky-attention/Sticky-attention?include_prereleases&style=flat&label=测试版)](https://github.com/Sticky-attention/Sticky-attention/releases/)
-![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-PaleGreen)
+![Update Status](https://img.shields.io/badge/活跃啥活跃-PaleGreen)
 
 
 Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示工具，可以展示各科作业等信息，拥有着原版没有的功能。
 
-#### **💬[点我加入Sticky-attention QQ 群](https://qm.qq.com/q/FbG57VTzTG) | [点我加入Sticky-attention 频道](https://pd.qq.com/s/1euf1c8t0)**
+#### **💬[点我加入Sticky-attention QQ 群](https://qm.qq.com/q/FbG57VTzTG)**
 
 
 ###### [ 观看宣传片视频，了解作者是咋发癫的 →](https://bilibili.com/video/BV1YJ4Fe5EgD/)
@@ -39,7 +39,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 > [!TIP]
 >
-> 您可以点击链接查看 [Sticky-attention 介绍视频](https://bilibili.com/video/BV11exqeiEwf/) 了解本软件的使用。
+> 您可以点击链接查看 [Sticky-attention 介绍视频](https://bilibili.com/video/BV1YJ4Fe5EgD/) 了解本软件的使用。
 > 
 - [X] 布置与修改作业
 - [X] 富文本支持（字体及其大小、颜色等）
@@ -81,7 +81,7 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 > [!Important]
 > **本软件不能直接安装在Program Files与Program Files (x86)文件夹下，否则启动软件必须用管理员权限打开，同时开机自启失效！（软件也会报错）捏**
 > ##### 点击下方链接 即可一步步教你安装Sa(Sticky-attention)
-> [![Sa安装视频](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV11exqeiEwf-%23FB7299?style=flat&logo=Sa安装视频)](https://www.bilibili.com/video/BV11exqeiEwf)
+> [![Sa安装视频](https://img.shields.io/badge/-bilibili%E8%A7%86%E9%A2%91%EF%BD%9CBV1YJ4Fe5EgD-%23FB7299?style=flat&logo=bilibili)](https://www.bilibili.com/video/BV1YJ4Fe5EgD)
 
 
 ## 遇到问题
@@ -93,7 +93,6 @@ Sticky-attention 是一款适用于Windows 系统教室一体机的作业显示�
 
 本应用目前的开发状态：
 
-- 正在[`master`](https://github.com/Sticky-attention/Sticky-attention/tree/master)分支上开发本应用。
 - 正在[`更新`](https://github.com/Sticky-attention/Sticky-attention/tree/更新)分支上开发本应用。
 
 
