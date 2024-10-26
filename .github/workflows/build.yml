@@ -95,7 +95,4 @@ jobs:
       with:
         name: output
         path: |
-         ./StickyHomeworks/bin/Release/net8.0-windows/zh-Hans/*
-         ./StickyHomeworks/bin/Release/net8.0/windows/*.json
-         ./StickyHomeworks/bin/Release/net8.0-windows/*.dll
-         ./StickyHomeworks/bin/net8.0/windows/StickyHomeworks.exe
+         ./*
